@@ -1,8 +1,8 @@
-Головизнин Владислав
-+79124552882
-26 лет, имею степень Магистра по специальности ходожественной обработки материалов. В результате рассмотрения различных вариантов, в какой сфере работать и развиваться выбрал именно IT-сферу. Своей целью ставлю, для начала, освоить базовые знания и умения в работе в этом направлении, а в дальнейшем их совершенствование в процессе работы в комманде. Не смотря на отсутствие опыта деяльности в этой сфере уверен в успешном завершении обучения и трудоустройстве, так как хорошо усваиваю новую информацию и в короткие сроки учусь применять ее и умения на практике.
-Навыков в языке програмирования не имею (Pascal АВС в школьные годы не в счет)
-Примеров кода пока нет.
-Опыт работы в IT-сфере отсутствует
-Высшее: Бакалавриат - Технология промышленного и упаковачного производства; Магистратура - Технологий художественной обработки материалов и ансамблей из древесины
-Английским разговорным владею приемлемо. Бдучу за границей без особого труда нахожу общий язык с его носителями.
+Goloviznin Vladislav
+Phone Number +79124552882
+I`m 26 year`s old. I have a Master's degree in Artistic Material Handling. As a result of considering various options in which area to work and develop, I chose the IT sphere. I set my goal, for a start, to master basic knowledge and skills in working in this direction, and in the future to improve them in the process of working in a team. Despite the lack of experience in this area, I am confident in the successful completion of training and employment, since I master new information well and quickly learn to apply it and skills in practice.
+I don’t have any programming language skills (Pascal ABC while at school)
+There are no code examples yet.
+No IT experience
+Higher: Bachelor's degree - Technology of industrial and packaging production; Master's Degree - Technologies of Artistic Processing of Materials and Wood Ensembles
+I speak English well. I stay abroad without much difficulty, I find a common language with its native speakers.
